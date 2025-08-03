@@ -75,7 +75,7 @@ npm run lint
 
 ## Contact
 
-For institutional inquiries: chief@striketarget.ai
+For institutional inquiries: engineering@striketarget.ai
 
 ## License
 

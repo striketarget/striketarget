@@ -1,35 +1,13 @@
-# Striketarget - Institutional Options Intelligence Platform
+# Striketarget
 
-Transform how institutional desks process options intelligence across their entire workflow.
+Striketarget is an institutional-grade suite of AI-powered applications designed to enhance the decision-making process for professional options trading desks. Our core mission is to provide a systematic framework that mitigates unforced errors and augments human judgment.
 
-## Overview
+Our work is guided by the principles of Virtuous Finance, focusing on discipline, clarity, and a research-backed approach to technology.
 
-Striketarget is a specialized platform designed for institutional options trading desks. We don't replace your judgment—we organize information so you can exercise it more effectively.
+---
 
-**Core Philosophy**: Information should clarify, not obfuscate.
+### Key Properties
 
-## Key Features
-
-### Four Specialized Applications
-- **Income Engine**: Systematic opportunity identification for premium collection
-- **Directional Analyzer**: High-conviction opportunity scanner with multi-timeframe analysis
-- **Position Manager**: Real-time portfolio monitoring with Greek aggregation
-- **Performance Review**: Strategy-level attribution analysis and systematic learning
-
-### Institutional Focus
-- Licensed software, not SaaS
-- Professional trading infrastructure requirements
-- Custom configuration and integration consultation
-- Direct institutional support
-
-## Development
-
-For developers, please see the [DEVELOPMENT.md](./DEVELOPMENT.md) guide for setup instructions and architectural details.
-
-## Contact
-
-For institutional inquiries: chief@striketarget.ai
-
-## License
-
-Proprietary - Institutional use only
+*   **[Website](https://www.striketarget.ai/)**: Our public-facing website with product details and contact information.
+*   **[Website Repository](https://github.com/striketarget/www-striketarget-ai)**: The public source code, development guide, and research thesis for our website.
+*   **[Striketarget News](https://striketarget.substack.com/)**: Our blog, where we publish articles on strategy, finance, and technology.

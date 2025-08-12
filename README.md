@@ -1,13 +1,13 @@
 # Striketarget
 
-**Virtuous Finance LLC** develops **Striketarget**, an institutional-grade suite of AI-powered applications for professional options trading desks. Striketarget provides a systematic framework to reduce unforced errors, enforce disciplined risk management, and enhance human judgment through evidence-based design.
+**Virtuous Finance LLC** develops **Striketarget**, an institutional-grade suite of AI-powered applications for professional options trading desks. The platform provides a systematic framework for reducing unforced errors, enforcing disciplined risk management, and strengthening human judgment through evidence-based design.
 
-Development is grounded in the **Virtuous Finance** philosophy — applying discipline, clarity, and research-backed methods to create technology that meets the operational demands of institutional trading environments.
+Development is guided by the **Virtuous Finance** philosophy — applying discipline, clarity, and research-backed methods to create technology aligned with the operational demands of institutional trading environments.
 
 ---
 
 ### Key Properties
 
-*   **[Website](https://www.striketarget.ai/)**: Our public-facing website with product details and contact information.
-*   **[Website Repository](https://github.com/striketarget/www-striketarget-ai)**: The public source code, development guide, and research thesis for our website.
-*   **[Striketarget News](https://striketarget.substack.com/)**: Our blog, where we publish articles on strategy, finance, and technology.
+* **[Website](https://www.striketarget.ai/)** – Public-facing site with product details and institutional contact channels.  
+* **[Website Repository](https://github.com/striketarget/www-striketarget-ai)** – Public source code, development guide, and product research thesis.  
+* **[Striketarget News](https://striketarget.substack.com/)** – Publication featuring articles on trading strategy, finance, and technology.  

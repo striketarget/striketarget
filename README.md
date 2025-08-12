@@ -1,8 +1,8 @@
 # Striketarget
 
-Striketarget is an institutional-grade suite of AI-powered applications designed to enhance the decision-making process for professional options trading desks. Our core mission is to provide a systematic framework that mitigates unforced errors and augments human judgment.
+**Virtuous Finance LLC** develops **Striketarget**, an institutional-grade suite of AI-powered applications for professional options trading desks. Striketarget provides a systematic framework to reduce unforced errors, enforce disciplined risk management, and enhance human judgment through evidence-based design.
 
-Our work is guided by the principles of Virtuous Finance, focusing on discipline, clarity, and a research-backed approach to technology.
+Development is grounded in the **Virtuous Finance** philosophy — applying discipline, clarity, and research-backed methods to create technology that meets the operational demands of institutional trading environments.
 
 ---
 
